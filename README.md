@@ -1,13 +1,19 @@
 # Food-Menu
 
 I have created a web page using HTML language and little bit of CSS
+
 ,Which allows users to browse Recipes.
 
 When the user selects a meal, the details of that meal show:
+
 • Name of the dish
+
 • Image of the dish
+
 • A List of ingredients including measures
+
 • Instructions how to prepare the dish
+
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/72187181/142475019-eb25f29e-0578-47ab-be14-5317e9e23b70.png)
 
